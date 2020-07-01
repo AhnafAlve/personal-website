@@ -13,14 +13,14 @@ h1{
     margin: 0;
 }
 
-}
 .header-area{ 
    background-image: url(images/header-bg.png);
    backface-visibility: visible;
 }
 #biography{
     background-image: url("images/biography-bg.png");
-}#blog{
+}
+#blog{
     background-image: url("images/latest-work-bg.png");
 }
 #footer-img{
