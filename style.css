@@ -76,3 +76,14 @@ footer{
     text-align: center;
     font-size: 12px;
 }
+
+#content img {
+    width: 15%;
+    margin-left: 10%;
+    float: left;
+    padding: 20px;
+
+}
+#client-txt{
+    text-align: center;
+}
